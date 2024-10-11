@@ -7,4 +7,9 @@
 
 4. Le Genre,Rôle,Espèce,Ressource,Type de portée,Régions et Année de sortie
 
-5. 
+5.1 L'association,relation
+5.2 En cardinalités
+
+6.1 Oui le champion peut avoir plusieurs instances d'un caractèristique telle que l'espèce,rôle,Région et type de portée
+6.2 Oui
+6.3 1,n , 0,1 , 1,1
